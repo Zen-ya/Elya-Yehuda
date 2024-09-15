@@ -1,2 +1,5 @@
 Login : Elya_Amram 
 Password : 6m3NJkfC.j2QmyZ
+
+Connection String : "workstation id=En_chanter_Karaoke.mssql.somee.com;packet size=4096;user id=Elya_Amram_SQLLogin_5;pwd=qvrs6xc9y2;data 			             source=En_chanter_Karaoke.mssql.somee.com;persist security info=False;initial catalog=En_chanter_Karaoke;TrustServerCertificate=True"
+
